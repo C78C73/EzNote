@@ -1,0 +1,76 @@
+D:\College\Spring 2025\4400\Final\EzNote\bin\Debug\net8.0-windows\EzNote.exe
+D:\College\Spring 2025\4400\Final\EzNote\bin\Debug\net8.0-windows\EzNote.deps.json
+D:\College\Spring 2025\4400\Final\EzNote\bin\Debug\net8.0-windows\EzNote.runtimeconfig.json
+D:\College\Spring 2025\4400\Final\EzNote\bin\Debug\net8.0-windows\EzNote.dll
+D:\College\Spring 2025\4400\Final\EzNote\bin\Debug\net8.0-windows\EzNote.pdb
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\MainWindow.baml
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\App.g.cs
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote_MarkupCompile.cache
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.g.resources
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfoInputs.cache
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfo.cs
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.csproj.CoreCompileInputs.cache
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.dll
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\refint\EzNote.dll
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.pdb
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\EzNote.genruntimeconfig.cache
+D:\College\Spring 2025\4400\Final\EzNote\obj\Debug\net8.0-windows\ref\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\bin\Debug\net8.0-windows\EzNote.exe
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\bin\Debug\net8.0-windows\EzNote.deps.json
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\bin\Debug\net8.0-windows\EzNote.runtimeconfig.json
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\bin\Debug\net8.0-windows\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\bin\Debug\net8.0-windows\EzNote.pdb
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote_MarkupCompile.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.g.resources
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfoInputs.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfo.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.csproj.CoreCompileInputs.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\refint\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.pdb
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\EzNote.genruntimeconfig.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote (1)\EzNote\obj\Debug\net8.0-windows\ref\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\bin\Debug\net8.0-windows\EzNote.exe
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\bin\Debug\net8.0-windows\EzNote.deps.json
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\bin\Debug\net8.0-windows\EzNote.runtimeconfig.json
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\bin\Debug\net8.0-windows\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\bin\Debug\net8.0-windows\EzNote.pdb
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote_MarkupCompile.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.g.resources
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfoInputs.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfo.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.csproj.CoreCompileInputs.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\refint\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.pdb
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\EzNote.genruntimeconfig.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\EzNote\obj\Debug\net8.0-windows\ref\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\bin\Debug\net8.0-windows\EzNote.exe
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\bin\Debug\net8.0-windows\EzNote.deps.json
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\bin\Debug\net8.0-windows\EzNote.runtimeconfig.json
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\bin\Debug\net8.0-windows\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\bin\Debug\net8.0-windows\EzNote.pdb
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote_MarkupCompile.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.g.resources
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfoInputs.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.AssemblyInfo.cs
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.csproj.CoreCompileInputs.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\refint\EzNote.dll
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.pdb
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\EzNote.genruntimeconfig.cache
+C:\Users\gagei\Documents\school\2025\c#\final\EzNote\obj\Debug\net8.0-windows\ref\EzNote.dll
